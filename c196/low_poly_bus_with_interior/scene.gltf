@@ -1,0 +1,602 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 36119,
+      "max": [
+        1.5379470586776733,
+        8.026806831359863,
+        2.0904641151428223
+      ],
+      "min": [
+        -1.5379470586776733,
+        -8.016852378845215,
+        -2.6733808517456055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 433428,
+      "componentType": 5126,
+      "count": 36119,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36119,
+      "max": [
+        0.7500000596046448,
+        0.85833340883255
+      ],
+      "min": [
+        0.008630882948637009,
+        0.033333346247673035
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 56532,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 866856,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        1.3069376945495605,
+        8.005287170410156,
+        -0.16683103144168854
+      ],
+      "min": [
+        -1.3069376945495605,
+        -7.51800012588501,
+        -1.7282475233078003
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 868032,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        1.0,
+        1.0,
+        4.5558692363556474e-05
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 288952,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.8899999856948853,
+        0.17500008642673492
+      ],
+      "min": [
+        0.7200000286102295,
+        0.15833331644535065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 226128,
+      "componentType": 5125,
+      "count": 138,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 869208,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        1.3056035041809082,
+        -7.350419998168945,
+        -1.497283697128296
+      ],
+      "min": [
+        -1.3056035041809082,
+        -7.5393805503845215,
+        -1.6274890899658203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 871104,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        0.8801663517951965,
+        0.9071776866912842,
+        0.9999886155128479
+      ],
+      "min": [
+        -0.8801655173301697,
+        -1.0,
+        -0.9999961853027344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 289736,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        0.7049999833106995,
+        0.19166678190231323
+      ],
+      "min": [
+        0.6949998736381531,
+        0.18333330750465393
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 226680,
+      "componentType": 5125,
+      "count": 228,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 873000,
+      "componentType": 5126,
+      "count": 188,
+      "max": [
+        1.2753831148147583,
+        7.926251411437988,
+        1.8422483205795288
+      ],
+      "min": [
+        -1.2753831148147583,
+        -7.451004981994629,
+        -1.2291429042816162
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 875256,
+      "componentType": 5126,
+      "count": 188,
+      "max": [
+        1.0,
+        1.0,
+        0.40413182973861694
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -3.690259109134786e-05
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 291000,
+      "componentType": 5126,
+      "count": 188,
+      "max": [
+        0.32341268658638,
+        0.17220550775527954
+      ],
+      "min": [
+        0.26301583647727966,
+        0.12825725972652435
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 227592,
+      "componentType": 5125,
+      "count": 294,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 877512,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        1.3069376945495605,
+        8.005287170410156,
+        -0.3830822706222534
+      ],
+      "min": [
+        -1.3069376945495605,
+        7.939493656158447,
+        -0.7529081106185913
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 878472,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 292504,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.2850000858306885,
+        0.8083334565162659
+      ],
+      "min": [
+        0.2550000548362732,
+        0.7166666984558105
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 228768,
+      "componentType": 5125,
+      "count": 120,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Vladek (https://sketchfab.com/vladek27)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-bus-with-interior-c99f906a5648445b96f890fead36643d",
+      "title": "Low poly bus with interior"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 229248,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 293144,
+      "byteOffset": 229248,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 879432,
+      "byteOffset": 522392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1401824,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/main_palette_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "main_palette",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "turnlight",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.151306,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9377715583782993
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "headlight",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.643636,
+          0.8,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8414634481746057
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "glass_palette",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.6826894429953365
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6334795614979114
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "stoplight",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.0,
+          0.00297527,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9619209218575699
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "bus_001_main_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "bus_001_turnlight_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "bus_001_headlight_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "bus_001_glass_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "bus_001_stoplight_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "aefb92a2eede46179f4d92c5b15723c7.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        -0.9999999999999868,
+        0.0,
+        0.0,
+        0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        2.0924739837646484,
+        0.0,
+        1.0
+      ],
+      "name": "bus_001"
+    },
+    {
+      "mesh": 0,
+      "name": "bus_001_main_palette_0"
+    },
+    {
+      "mesh": 1,
+      "name": "bus_001_turnlight_0"
+    },
+    {
+      "mesh": 2,
+      "name": "bus_001_headlight_0"
+    },
+    {
+      "mesh": 3,
+      "name": "bus_001_glass_palette_0"
+    },
+    {
+      "mesh": 4,
+      "name": "bus_001_stoplight_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly bus with interior
+* source:	https://sketchfab.com/3d-models/low-poly-bus-with-interior-c99f906a5648445b96f890fead36643d
+* author:	Vladek (https://sketchfab.com/vladek27)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly bus with interior" (https://sketchfab.com/3d-models/low-poly-bus-with-interior-c99f906a5648445b96f890fead36643d) by Vladek (https://sketchfab.com/vladek27) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
